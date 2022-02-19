@@ -28,16 +28,16 @@ Der auszuführende Code ist für alle GANS im Branch "Main" hinterlegt.
 
 ## Dateien
 
-Die zu verwendenden Datein sind am folgenden Speicherort (Kaggle) herunterzuladen: 
-https://www.kaggle.com/soumikrakshit/anime-faces (Download 228MB)
+Die Bilddateien welche zum Asuführen des GANS verwendet werden, können auf zwei Arten erlangt werden:
 
-Der heruntergeladene Ordner ist wie folgt zu benennen: 
-anime-faces.zip
+1. Vorhab ist die Datei "Dataset.ipynb" auszuführen, welche die entsprechenden Dateien von der Plattform Kaggle herunterlädt. Dazu ist vorab durch den Nutzer die eigene "kaggle.json" Datei im Ordner "GANS" zu hinterlegen. 
 
-Diese ZIP-Datei ist im Ordner "GANS" (selbiger Ordner der README & .ipynb - Dateien) abzulegen.
+2. Die zu verwendenden Datein sind am folgenden Speicherort (Kaggle) herunterzuladen: 
+https://www.kaggle.com/soumikrakshit/anime-faces (Download 228MB). Die heruntergeladene ZIP-Datei ist in "anime-faces.zip" un in einem Ordner "animefaces" im Ordner "GANS" abzulegen.
 
-Ein abspeichern der ZIP-Datei in GitHub war aufgrund der Dateigrößenbegrenzung von 25MB nicht möglich. 
+
+Ein direktes Abspeichern der ZIP-Datei in GitHub war aufgrund der Dateigrößenbegrenzung von 25MB nicht möglich. 
 
 ## Ausführung
 
-Die .ipynb - Dateien sind in beliebiger Reihenfolge ausführbar, mittels des Buttons alle ausführen wird eine ausgewählte Datei bis zum Ende durchlaufen. Sollte eine Datei wiederholt durchlaufen zu sein, sind die durch den vorherigen Durchlauf erstellten Ordner vorher zu löschen
+Vorab sind die Bilddateien runterzuladen. Die .ipynb - Dateien sind in beliebiger Reihenfolge ausführbar, mittels des Buttons alle ausführen wird eine ausgewählte Datei bis zum Ende durchlaufen. Sollte eine Datei wiederholt durchlaufen zu sein, sind die durch den vorherigen Durchlauf erstellten Ordner vorher zu löschen
