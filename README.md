@@ -12,6 +12,8 @@ Hinweis: Eine Python Version höher als 3.9 ist nicht zu verwenden, da PyTorch d
 
 ## Installationsansweisungen
 
+Die Requirements der GANS werden bei der Ausführung einer Datei automatisch via pip install -r requirements.txt geladen. Sollte dies nicht funktionieren, müssen gegebenenfalls manuell folgende Schritte vorgenommen werden:
+
 Vor dem Ausführen sind PyTorch, Matplotlib & Pandas in der Konsole zu installieren, folgende Befehle sind dafür nacheinander auszuführen:
 
 pip3 install torch==1.10.2+cu102 torchvision==0.11.3+cu102 torchaudio===0.10.2+cu102 -f https://download.pytorch.org/whl/cu102/torch_stable.html
