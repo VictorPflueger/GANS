@@ -32,4 +32,10 @@ https://www.kaggle.com/soumikrakshit/anime-faces (Download 228MB)
 Der heruntergeladene Ordner ist wie folgt zu benennen: 
 anime-faces.zip
 
-Diese ZIP-Datei ist im Ordner "GANS" (selbiger Ordner der README & .ipynb - Dateien) abzulegen. 
+Diese ZIP-Datei ist im Ordner "GANS" (selbiger Ordner der README & .ipynb - Dateien) abzulegen.
+
+Ein abspeichern der ZIP-Datei in GitHub war aufgrund der Dateigrößenbegrenzung von 25MB nicht möglich. 
+
+## Ausführung
+
+Die .ipynb - Dateien sind in beliebiger Reihenfolge ausführbar, mittels des Buttons alle ausführen wird eine ausgewählte Datei bis zum Ende durchlaufen. Sollte eine Datei wiederholt durchlaufen zu sein, sind die durch den vorherigen Durchlauf erstellten Ordner vorher zu löschen
