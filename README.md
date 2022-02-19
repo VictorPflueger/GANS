@@ -24,7 +24,7 @@ pip install pandas
 
 ## Branch
 
-Der auszuführende Code ist für alle GANS im Branch "Master" hinterlegt. 
+Der auszuführende Code ist für alle GANS im Branch "Main" hinterlegt. 
 
 ## Dateien
 
