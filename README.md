@@ -33,7 +33,7 @@ Die Bilddateien welche zum Asuführen des GANS verwendet werden, können auf zwe
 1. Vorhab ist die Datei "Dataset.ipynb" auszuführen, welche die entsprechenden Dateien von der Plattform Kaggle herunterlädt. Dazu ist vorab durch den Nutzer die eigene "kaggle.json" Datei im Ordner "GANS" zu hinterlegen. 
 
 2. Die zu verwendenden Datein sind am folgenden Speicherort (Kaggle) herunterzuladen: 
-https://www.kaggle.com/soumikrakshit/anime-faces (Download 228MB). Die heruntergeladene ZIP-Datei ist in "anime-faces.zip" un in einem Ordner "animefaces" im Ordner "GANS" abzulegen.
+https://www.kaggle.com/soumikrakshit/anime-faces (Download 228MB). Die heruntergeladene ZIP-Datei ist als "anime-faces.zip" in einem Ordner "animefaces" im Ordner "GANS" abzulegen.
 
 
 Ein direktes Abspeichern der ZIP-Datei in GitHub war aufgrund der Dateigrößenbegrenzung von 25MB nicht möglich. 
