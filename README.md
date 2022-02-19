@@ -26,7 +26,7 @@ Der auszuführende Code ist für alle GANS im Branch "Master" hinterlegt.
 
 ## Dateien
 
-Die zu verwendenden Datein sind am folgenden Spiecherort (Kaggle) herunterzuladen: 
+Die zu verwendenden Datein sind am folgenden Speicherort (Kaggle) herunterzuladen: 
 https://www.kaggle.com/soumikrakshit/anime-faces (Download 228MB)
 
 Der heruntergeladene Ordner ist wie folgt zu benennen: 
