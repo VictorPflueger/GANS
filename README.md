@@ -13,3 +13,5 @@ pip3 install torch==1.10.2+cu102 torchvision==0.11.3+cu102 torchaudio===0.10.2+c
 pip install matplotlib
 
 pip install pandas
+
+Der auszuführende Code ist für alle GANS im Branch "Master" hinterlegt
