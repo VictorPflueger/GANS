@@ -5,7 +5,9 @@ Abgabe der Projektaufgaben WS2021 MBB
 ## Umgebung
 
 Visual Studio Code x64 1.64.2
+
 Python: 3.9.10 x64 
+
 Hinweis: Eine Python Version höher als 3.9 ist nicht zu verwenden, da PyTorch dafür noch nicht kompatibel ist. 
 
 ## Installationsansweisungen
