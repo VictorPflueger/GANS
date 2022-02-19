@@ -10,6 +10,6 @@ Vor dem Ausführen sind PyTorch, Matplotlib & Pandas in der Konsole zu installie
 
 pip3 install torch==1.10.2+cu102 torchvision==0.11.3+cu102 torchaudio===0.10.2+cu102 -f https://download.pytorch.org/whl/cu102/torch_stable.html
 
-pip install matplotlin
+pip install matplotlib
 
 pip install pandas
