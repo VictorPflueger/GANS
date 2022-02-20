@@ -26,7 +26,7 @@ pip install pandas
 
 Der auszuführende Code ist für alle GANS im Branch "Main" hinterlegt. 
 
-## Dateien
+## Bildateien
 
 Die Bilddateien welche zum Asuführen des GANS verwendet werden, können auf zwei Arten erlangt werden:
 
@@ -41,3 +41,17 @@ Ein direktes Abspeichern der ZIP-Datei in GitHub war aufgrund der Dateigrößenb
 ## Ausführung
 
 Vorab sind die Bilddateien runterzuladen. Die .ipynb - Dateien sind in beliebiger Reihenfolge ausführbar, mittels des Buttons alle ausführen wird eine ausgewählte Datei bis zum Ende durchlaufen. 
+
+## DCGAN
+
+Bei der Datei DCGAN.ipynb handelt es sich um die Erfüllung der zugrundeliegenden Hauptaufgabe "Trainieren Sie (ein) Generative Adversarial Network (GAN) zur Generierung von Bilddaten in PyTorch". Dazu wurden Strukturen eines Deep Convolutional GANS verwenddet, kurz DCGAN. 
+
+## WGAN
+
+Bei der Datei WGAN.ipynb handelt es sich um die Erfüllung der ersten Zusatzaufgabe "Wandeln Sie Ihr GAN in ein Wasserstein GAN um". Dazu wurden Strukturen eines Wasserstein-GANS verwenddet, kurz WGAN. Hierbei wurde sich am dafür empfohlenen Paper orientiert: 
+https://arxiv.org/pdf/1701.07875.pdf 
+
+## GPGAN
+
+Bei der Datei GPGAN.ipynb handelt es sich um die Erfüllung der zweiten Zusatzaufgabe "Wandeln Sie Ihr GAN in ein Gradient Penalty GAN um". Dazu wurden Strukturen eines Gradient Penalty-GANS verwenddet, kurz GPGAN. Hierbei wurde sich am dafür empfohlenen Paper orientiert: 
+https://arxiv.org/pdf/1704.00028.pdf
