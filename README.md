@@ -40,4 +40,4 @@ Ein direktes Abspeichern der ZIP-Datei in GitHub war aufgrund der Dateigrößenb
 
 ## Ausführung
 
-Vorab sind die Bilddateien runterzuladen. Die .ipynb - Dateien sind in beliebiger Reihenfolge ausführbar, mittels des Buttons alle ausführen wird eine ausgewählte Datei bis zum Ende durchlaufen. Sollte eine Datei wiederholt durchlaufen zu sein, sind die durch den vorherigen Durchlauf erstellten Ordner zu löschen. 
+Vorab sind die Bilddateien runterzuladen. Die .ipynb - Dateien sind in beliebiger Reihenfolge ausführbar, mittels des Buttons alle ausführen wird eine ausgewählte Datei bis zum Ende durchlaufen. 
