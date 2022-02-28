@@ -58,4 +58,4 @@ https://arxiv.org/pdf/1704.00028.pdf
 
 ## Testing
 
-Alle drei GANs wurden in VSCode und Google Colab hinsichtlich ihrer Funktionalität überprüft. Als Nachweis finden sich im Ordner Beispielbilder  Vergleichsbilder aller GANS nach Durchlauf aller Epochen
+Alle drei GANs wurden in VSCode und Google Colab hinsichtlich ihrer Funktionalität überprüft. Als Nachweis finden sich im Ordner "Vergleichsbilder" die abschließenden Ergebnisse aller GANS nach Durchlauf aller Epochen
