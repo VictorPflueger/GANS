@@ -56,6 +56,6 @@ https://arxiv.org/pdf/1701.07875.pdf
 Bei der Datei GPGAN.ipynb handelt es sich um die Erfüllung der zweiten Zusatzaufgabe "Wandeln Sie Ihr GAN in ein Gradient Penalty GAN um". Dazu wurden Strukturen eines Gradient Penalty-GANS verwenddet, kurz GPGAN. Hierbei wurde sich am dafür empfohlenen Paper orientiert: 
 https://arxiv.org/pdf/1704.00028.pdf
 
-##Testing
+## Testing
 
-Die Programme wurden sowohl in VSCode als auch in Google Colab getestet. Als nachweis finden sich die Ergebnisbilder nach Durchlauf aller Epochen beispielhaft im beigefügten Ordner
+Alle drei GANs wurden in VSCode und Google Colab hinsichtlich ihrer Funktionalität überprüft. Als Nachweis finden sich im Ordner Beispielbilder  Vergleichsbilder aller GANS nach Durchlauf aller Epochen
